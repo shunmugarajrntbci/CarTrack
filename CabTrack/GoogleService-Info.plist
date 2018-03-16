@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>523233495121-b8sde2oa6k2basms0tjnpb1j6o33jc28.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.523233495121-b8sde2oa6k2basms0tjnpb1j6o33jc28</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAWjaIJEBi4YY1PX-6plhi3N4IY2frzD3Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>523233495121</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rntbci.CabTrack</string>
+	<key>PROJECT_ID</key>
+	<string>cabtrack-6cb6e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cabtrack-6cb6e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:523233495121:ios:4f26183e5922fc9c</string>
+	<key>DATABASE_URL</key>
+	<string>https://cabtrack-6cb6e.firebaseio.com</string>
+</dict>
+</plist>
